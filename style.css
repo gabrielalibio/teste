@@ -1,0 +1,28 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+h1 {
+   background: silver;
+   color: mediumseagreen;
+   font-family:cursive ;
+   font-size: 2em;
+   /* font-style: oblique; */
+font-weight: 400;
+letter-spacing: 10px;
+line-height: 45px;
+margin: 30px;
+
+padding: 25px;
+text-align: center;
+text-transform: uppercase;
+text-shadow: -3px 5px 10px #000000, 10px 10px 10px #000000 ;
+}
+
+main p{
+    text-indent: 20px;
+    text-align: justify;
+    margin: 15px;
+}
